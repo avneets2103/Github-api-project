@@ -7,7 +7,7 @@ function Header() {
         <>
             <div className='topNav'>
                 <div className="logo">
-                    <img src="../../public/Images/logo.svg" alt="logo"/>
+                    <img src="Images/logo.svg" alt="logo"/>
                 </div>
                 <div className='sections'>
                     <NavLink    
