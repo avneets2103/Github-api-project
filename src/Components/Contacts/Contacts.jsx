@@ -27,7 +27,7 @@ function Contacts(props) {
                         class='formSubmit' onMouseEnter={(e)=>{e.target.style.backgroundColor="#ff9a47"; e.target.style.color="white"}} onMouseLeave={(e)=>{e.target.style.backgroundColor="#f8eca8"; e.target.style.color="black"}}/>
                     </form>
                 </div>
-                <img src="../../../public/Images/contactUs.png" alt=""/>
+                <img src="Images/contactUs.png" alt=""/>
             </div>
         </>
     )
