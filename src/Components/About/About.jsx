@@ -6,7 +6,7 @@ function About() {
         <>
             <div className='about'>
                 <div className="about1">
-                    <img src="../../../public/Images/cat.jpg" alt=""/>
+                    <img src="Images/cat.jpg" alt=""/>
                     <div className='info1'>
                         <h2>About Us</h2>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit facilis quaerat obcaecati, ipsa ab adipisci atque distinctio optio, earum quo tempora! Mollitia ab ullam fugiat molestias nesciunt excepturi quas eos quod distinctio quidem? Corrupti minus voluptatem dolorum error neque perspiciatis.
@@ -21,7 +21,7 @@ function About() {
                         </p><br />
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit facilis quaerat obcaecati, ipsa ab adipisci atque distinctio optio, earum quo tempora! Mollitia ab ullam fugiat molestias nesciunt excepturi quas eos quod distinctio quidem? Corrupti minus voluptatem dolorum error neque perspiciatis.</p>
                     </div>
-                    <img src="../../../public/Images/work.jpg" alt=""/>
+                    <img src="Images/work.jpg" alt=""/>
                 </div>  
             </div>
         </>
